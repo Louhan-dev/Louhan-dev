@@ -5,8 +5,8 @@
     Desenvolvedor RPA, apaixonado por resolver problemas e pela área de segurança ofensiva  🎯.
 </p>
 <p>
-    <a href="https://www.linkedin.com/in/mazarafa/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@mazarafa-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/mazarafa/" alt="LinkedIn Badge"></a> 
-    <a href="https://instagram.com/mazarafa" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@mazarafa-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/mazarafa/" alt="Instagram Badge"></a>
+    <a href="https://www.linkedin.com/in/louhan-leal-vargas-734168195/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@mazarafa-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/louhan-leal-vargas-734168195/" alt="LinkedIn Badge"></a> 
+    <a href="https://www.instagram.com/louhanlealvargas/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@mazarafa-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/louhanlealvargas/" alt="Instagram Badge"></a>
 </p>
 
 <img align="right" src="https://media.giphy.com/media/9gISqB3tncMmY/giphy.gif" width="480" />
@@ -26,6 +26,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-plain.svg" alt="c" width="25" height="25" />
     
 </p>
-
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mazarafa&show_icons=true&hide_border=true" alt="Tadeu's Github Stats">
