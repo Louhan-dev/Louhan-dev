@@ -24,7 +24,7 @@
     <li> 👨‍💻 Atualmente realizando curso da Desec Security, Universidade Hacker do Rafael Souza e Pato Academy do Gabriel Pato. </li>
     <li>📙Lendo <a href="https://www.amazon.com.br/Redes-Computadores-Internet-Abordagem-Top-Down/dp/8581436773/ref=sr_1_1?crid=19OD7TJWP4PTA&keywords=redes+de+computadores+e+a+internet+uma+abordagem+top-down&qid=1665195211&qu=eyJxc2MiOiIxLjk2IiwicXNhIjoiMS4yNCIsInFzcCI6IjEuMDAifQ%3D%3D&s=books&sprefix=redes+de+computadores+e+a+int%2Cstripbooks%2C228&sr=1-1&ufe=app_do%3Aamzn1.fos.6a09f7ec-d911-4889-ad70-de8dd83c8a74">Computer-Networking-Top-Down-Approach</a>.</li>
 </ul>
-<h2>🚀 Algumas das tecnologias que mais interajo</h2>
+<h2>🚀 Tecnologias que mais interajo no momento</h2>
 <p align="left">
     <img src="https://cdn.worldvectorlogo.com/logos/uipath-3.svg" alt="uipath" width="25" height="25" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" />
