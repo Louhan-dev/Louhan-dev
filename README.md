@@ -9,7 +9,7 @@
     <a href="https://www.instagram.com/louhanlealvargas/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@mazarafa-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/louhanlealvargas/" alt="Instagram Badge"></a>
 </p>
 
-<img align="right" src="https://media.giphy.com/media/9gISqB3tncMmY/giphy.gif" width="480" />
+<img align="right" src="https://68.media.tumblr.com/2b67d3c84b97e979b4d690a58c43ac61/tumblr_ocnd9eT2fP1qe8lb8o1_500.gif" width="480" />
 <h2>⚡️ Alguns fatos rápidos</h2>
 <ul>
     <li>🔭 Atualmente estou trabalhando na aréa de automações de processos.</li>
