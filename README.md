@@ -2,7 +2,7 @@
 
 <h2>Hey 👋, I'm Louhan</h2>
 <p>Atualmente sou desenvolvedor de automações de processos na GAVB.            
-    Sou apaixonado por tecnologia, pela cultura hacker e por estudar a área de segurança ofensiva  🎯.
+    Sou apaixonado por tecnologia, cultura hacker e estudar a área de segurança ofensiva  🎯.
 </p>
 <p>
     <a href="https://www.linkedin.com/in/louhan-leal-vargas-734168195/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@louhan-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/louhan-leal-vargas-734168195/" alt="LinkedIn Badge"></a> 
