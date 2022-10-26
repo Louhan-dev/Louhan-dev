@@ -6,7 +6,7 @@
 </p>
 <p>
     <a href="https://www.linkedin.com/in/louhan-leal-vargas-734168195/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@louhan-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/louhan-leal-vargas-734168195/" alt="LinkedIn Badge"></a> 
-    <a href="https://www.instagram.com/louhanlealvargas/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@mazarafa-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/louhanlealvargas/" alt="Instagram Badge"></a>
+    <a href="https://www.instagram.com/louhanlealvargas/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@louhanlealvargas-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/louhanlealvargas/" alt="Instagram Badge"></a>
 </p>
 
 <img align="right" src="https://68.media.tumblr.com/2b67d3c84b97e979b4d690a58c43ac61/tumblr_ocnd9eT2fP1qe8lb8o1_500.gif" width="480" />
