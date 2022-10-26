@@ -5,7 +5,7 @@
     Sou apaixonado por tecnologia, pela cultura hacker e por estudar a área de segurança ofensiva  🎯.
 </p>
 <p>
-    <a href="https://www.linkedin.com/in/louhan-leal-vargas-734168195/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@mazarafa-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/louhan-leal-vargas-734168195/" alt="LinkedIn Badge"></a> 
+    <a href="https://www.linkedin.com/in/louhan-leal-vargas-734168195/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@louhan-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/louhan-leal-vargas-734168195/" alt="LinkedIn Badge"></a> 
     <a href="https://www.instagram.com/louhanlealvargas/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@mazarafa-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/louhanlealvargas/" alt="Instagram Badge"></a>
 </p>
 
