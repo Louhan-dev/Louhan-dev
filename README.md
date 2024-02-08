@@ -15,7 +15,6 @@
     <li>🔭 Atualmente estou trabalhando na aréa de automações de processos.</li>
     <li>👨‍💻 Estou começando a povoar meu github agora, então a maioria dos meus projetos no futuro estarão disponíveis no meu <a href="https://github.com/louhan-dev">Github</a></li>
     <li>💬 No meu passa tempo estudo segurança ofensiva e jogo alguns games.</li>
-    <li> 👨‍💻 Em busca da migração para a área de segurança </li>
     <li>📙Lendo <a href="https://www.amazon.com.br/Redes-Computadores-Internet-Abordagem-Top-Down/dp/8581436773/ref=sr_1_1?crid=19OD7TJWP4PTA&keywords=redes+de+computadores+e+a+internet+uma+abordagem+top-down&qid=1665195211&qu=eyJxc2MiOiIxLjk2IiwicXNhIjoiMS4yNCIsInFzcCI6IjEuMDAifQ%3D%3D&s=books&sprefix=redes+de+computadores+e+a+int%2Cstripbooks%2C228&sr=1-1&ufe=app_do%3Aamzn1.fos.6a09f7ec-d911-4889-ad70-de8dd83c8a74">Computer-Networking-Top-Down-Approach</a>.</li>
 </ul>
 <h2>🚀 Tecnologias que estou mais interagindo no momento</h2>
