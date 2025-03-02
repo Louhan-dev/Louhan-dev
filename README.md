@@ -1,7 +1,7 @@
 
 
 <h2>Hey 👋, I'm Louhan</h2>
-<p>Atualmente sou desenvolvedor de automações de processos e security champion no Grupo Boticário.            
+<p>Atualmente sou analista de segurança ofensiva na Solo Network.            
     Sou apaixonado por tecnologia e cultura hacker 🎯.
 </p>
 <p>
